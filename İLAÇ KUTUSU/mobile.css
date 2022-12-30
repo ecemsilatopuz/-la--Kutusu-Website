@@ -1,0 +1,9 @@
+#navbar ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: stretch;
+    align-items: center;
+    padding: 1.75rem;
+    margin-left: 1em;
+    font-size: 0.75em;
+}

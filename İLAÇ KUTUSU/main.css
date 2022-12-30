@@ -1,0 +1,34 @@
+#navbar{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.75rem;
+    background-color: white;
+    
+}
+
+#navbar ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: stretch;
+    align-items: center;
+    padding: 1.75rem;
+    margin-left: 1em;
+    font-size: 1.25em;
+}
+
+
+#navbar ul li a {
+    padding: 00.75rem;
+    text-decoration: none; /*LİNKLERİN ALTINDAKİ ÇİZGİYİ YOK EDER*/
+    color:black;
+    
+}
+#navbar ul li a:hover {
+    color:#ABB898;
+}
+
+.logo{
+    float: left;  }  
+
